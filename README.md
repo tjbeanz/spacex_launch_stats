@@ -1,4 +1,4 @@
-# spacex_launch_stats
+# SpaceX Launch Stats
 Uses GraphQL to hit the SpaceX api and displays launch stats for all of their launches.
 
 This follows the four-part YouTube series ***GraphQL With React & Apollo*** put out by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
